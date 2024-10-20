@@ -22,3 +22,10 @@ if (size<dropdown) {
 }
 
 //Task 4
+const purchase = 0;
+if (size=0) {
+    console.log("Item cannot be purchased");
+}
+
+//Task 5
+
