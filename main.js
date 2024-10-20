@@ -28,4 +28,7 @@ if (size=0) {
 }
 
 //Task 5
-
+for (let purchase = 0; index < array.length; index++) {
+    const purchase = array[index];
+    
+}
